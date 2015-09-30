@@ -1,0 +1,2 @@
+# enlighten
+self training 
